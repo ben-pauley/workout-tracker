@@ -10,11 +10,11 @@ This application does not need to be installed, as it can be viewed live on Hero
 
 ## Screenshots of Deployed Application
 
-![homepage](/images/app1.png?raw=true)
+![homepage](/assets/img/app1.png?raw=true)
 
-![workout page](/images/app2.png?raw=true)
+![workout page](/assets/img/app2.png?raw=true)
 
-![stats page](/images/app3.png?raw=true)
+![stats page](/assets/img/app3.png?raw=true)
 
 ## Software Used
 

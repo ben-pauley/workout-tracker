@@ -21,3 +21,5 @@ This application does not need to be installed, as it can be viewed live on Hero
 The development of this project was completed using Visual Studio Code, with MongoDB Robo3T to view the database and collections on my local machine, and then MongoDB Atlas to deploy the application on Heroku.
 
 ## Conclusion
+
+I really enjoyed learning more about MongoDB through the development of this application, as well as solidifying my knowledge and abilities in creating Mongo-based applications. I look forward to the next challenge.
